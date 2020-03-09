@@ -73,6 +73,9 @@
   -o-transition-property: transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform;
+  color: #8e8d8d;
+  font-size: 32px;
+  font-style: italic;
 }
 .swiper-slide-invisible-blank {
   visibility: hidden;
